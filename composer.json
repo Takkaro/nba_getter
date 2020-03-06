@@ -1,5 +1,5 @@
 {
-    "name": "Takkaro/nba_getter",
+    "name": "takkaro/nba_getter",
     "description": "A short description of what your package does",
     "require": {
         "php": "^7.2",
