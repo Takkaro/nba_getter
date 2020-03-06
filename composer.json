@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gregwar/plankton": "^1.0"
+    }
+}

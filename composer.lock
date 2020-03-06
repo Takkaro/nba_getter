@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e96009fe914ee9c3bc62dc3c0e4b7999",
+    "packages": [
+        {
+            "name": "gregwar/plankton",
+            "version": "v1.0.11",
+            "target-dir": "plankton",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Gregwar/Plankton.git",
+                "reference": "eca4863ebd69f0ff3ebde6171b25a38f32fc339c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Gregwar/Plankton/zipball/eca4863ebd69f0ff3ebde6171b25a38f32fc339c",
+                "reference": "eca4863ebd69f0ff3ebde6171b25a38f32fc339c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Grégoire Passault",
+                    "email": "g.passault@gmail.com",
+                    "homepage": "http://www.gregwar.com/"
+                },
+                {
+                    "name": "Quentin Rouxel",
+                    "email": "qrouxel@labri.fr"
+                }
+            ],
+            "description": "Plankton: a pedagogical PHP pico-framework",
+            "homepage": "https://github.com/Gregwar/Plankton",
+            "keywords": [
+                "framework",
+                "plankton"
+            ],
+            "time": "2014-09-03T20:21:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
